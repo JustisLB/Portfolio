@@ -1,2 +1,1 @@
-# Portfolio
-Justis Byun's personal portfolio
+# Justis Byun's Portfolio
